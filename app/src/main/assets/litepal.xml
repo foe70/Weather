@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.tenngo.weather2.db.Province" />
+        <mapping class="com.tenngo.weather2.db.City" />
+        <mapping class="com.tenngo.weather2.db.County" />
+    </list>
+</litepal>
